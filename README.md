@@ -29,7 +29,8 @@ To lunch:
 			1) Go to settings -> User Managment
 			2) Enter user using your Name and Email, as you used them in your spotify account
 
-#Contact
+Contact:
+
 Stavros Stathopoulos mail: astatho97@gmail.com  Discord: 𝕌𝕜𝕟𝕠𝕨𝕟.𝕖𝕩𝕖#0203
 Project Link: https://github.com/Stavros-Stathopoulos/Spotify-History-Recorder-app
 All copyrights reserved
