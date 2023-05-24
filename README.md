@@ -1,5 +1,5 @@
 # Spotify History Recorder app
- Its an app that creates a CSV file with the songs you listen in a single spotify session
+ Its an app that creates a CSV file with the songs you listen in a single spotify session. It requires internet connection and online Spotify streaming. Its been tested and working perfectly with Spotify Premnium
 
 Requires:
 
