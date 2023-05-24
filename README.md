@@ -31,6 +31,6 @@ To lunch:
 
 Contact:
 
-Stavros Stathopoulos mail: astatho97@gmail.com  Discord: 𝕌𝕜𝕟𝕠𝕨𝕟.𝕖𝕩𝕖#0203
-Project Link: https://github.com/Stavros-Stathopoulos/Spotify-History-Recorder-app
+Stavros Stathopoulos mail: astatho97@gmail.com  Discord: 𝕌𝕜𝕟𝕠𝕨𝕟.𝕖𝕩𝕖#0203\n
+Project Link: https://github.com/Stavros-Stathopoulos/Spotify-History-Recorder-app \n
 All copyrights reserved
